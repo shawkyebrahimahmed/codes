@@ -4,7 +4,9 @@ or
 you can download it:https://www.mediafire.com/file/07wx9680igesi17/info-paragraph.rar
 !use FontAwesome
 How to use this:
+<p>
 <!doctype html>
+<html>
 <head>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 <link href='https://rawgit.com/shawkyebrahimahmed/codes/master/info-paragraph/info-paragraph.css' rel='stylesheet'/>
@@ -31,3 +33,5 @@ How to use this:
     </span></b>
 </div>
 </body>
+</html>
+</p>
