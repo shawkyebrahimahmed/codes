@@ -1,0 +1,7 @@
+/*
+ *Follow me on behance :https://www.behance.net/shawky-ebrahim-ahmed
+ *Follow me on Facebook :https://www.facebook.com/shawky.ebrahim.ahmed
+ *Follow me on instagram :https://www.instagram.com/shawky.ebrahim.ahmed
+ *Follow me on twitter :https://twitter.com/shawky_ebrahimm
+*/
+/*start info paragraph*/.show-down-hover,.show-up-hover{position: relative;margin:0 5px;color: #212121;font-weight: 900;font-size: 20px;display:inline-block;border-radius: 15px;}.show-down-hover.bg-color,.show-up-hover.bg-color{background-color: #212121;color: #fff;padding: 5px 12px;}.show-down,.show-up{background-color: #212121;color:#fff;min-width: 110px;line-height: 17px;position: absolute;font-family: tahoma,arial;right: calc(50% - 62px);font-size: 12px;padding: 5px 5px;text-align: center;display:none;}.show-down {top: calc(100% + 12px);}.show-up{bottom: calc(100% + 12px);}.show-down .down-icon,.show-up .up-icon{position: absolute;right: 46%;color: #212121;font-size: 28px;}.show-up .up-icon{bottom: -17px;transform: rotate(180deg);}.show-down .down-icon{top: -17px;}.show-down-hover:hover .show-down{display:block;}.show-up-hover:hover .show-up{display:block;}/*end info paragraph*/
