@@ -4,6 +4,7 @@ or
 you can download it:https://www.mediafire.com/file/07wx9680igesi17/info-paragraph.rar
 !use FontAwesome
 How to use this:
+<!--
 <!doctype html>
 <html>
 <head>
@@ -34,3 +35,4 @@ How to use this:
 </div>
 </body>
 </html>
+-->
