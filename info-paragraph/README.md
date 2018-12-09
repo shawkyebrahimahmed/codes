@@ -1,5 +1,5 @@
 Code to make a small list of any information about any text<br>
-Using this link:https://rawgit.com/shawkyebrahimahmed/codes/master/info-paragraph/info-paragraph.css
+Using this link:https://cdn.jsdelivr.net/gh/shawkyebrahimahmed/codes@master/info-paragraph/info-paragraph.css
 <br>
 or
 <br>
